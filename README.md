@@ -8,10 +8,10 @@ Simply download this plugin and [compile it into a phar](http://pmt.mcpe.me) and
 
 ## Resources
 
-This program contains [code by sebagius7110](https://forums.pocketmine.net/threads/new-api-set-your-own-custom-join-messages.4640/).
+This plugin contains [code by sebagius7110](https://forums.pocketmine.net/threads/new-api-set-your-own-custom-join-messages.4640/).
 
-This program contains [code by PocketMine and shoghicp](https://github.com/PocketMine/ExamplePlugin).
+This plugin contains [code by PocketMine and shoghicp](https://github.com/PocketMine/ExamplePlugin).
 
 ## Notes
 
-This tool was coded and is maintained by [Keith](http://github.com/keithkfng) and [Legoboy0215](http://github.com/legoboy0215) of the [Imagical Corporation](http://github.com/ImagicalCorp) mainly for the [Killa Server Network for MCPE](http://www.killasg.ml). This is not a plugin for everyone, this is a plugin for our intended use. Hopefully you find it useful too.
+This plugin was coded and is maintained by [Keith](http://github.com/keithkfng) and [Legoboy0215](http://github.com/legoboy0215) of the [Imagical Corporation](http://github.com/ImagicalCorp) mainly for the [Killa Server Network for MCPE](http://www.killasg.ml). This is not a plugin for everyone, this is a plugin for our intended use. Hopefully you find it useful too.
