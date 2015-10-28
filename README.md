@@ -14,4 +14,4 @@ This program contains [code by PocketMine and shoghicp](https://github.com/Pocke
 
 ## Notes
 
-This tool was coded and is maintained by [Keith](http://github.com/keithkfng) and the developers of the [Imagical Corporation](http://github.com/ImagicalCorp) mainly for the [Killa Server Network for MCPE](http://www.killasg.ml). This is not a plugin for everyone, this is a plugin for our intended use. Hopefully you find it useful too.
+This tool was coded and is maintained by [Keith](http://github.com/keithkfng) and [Legoboy0215](http://github.com/legoboy0215) of the [Imagical Corporation](http://github.com/ImagicalCorp) mainly for the [Killa Server Network for MCPE](http://www.killasg.ml). This is not a plugin for everyone, this is a plugin for our intended use. Hopefully you find it useful too.
