@@ -10,7 +10,7 @@ Simply download this plugin and [compile it into a phar](http://pmt.mcpe.me) and
 
 This program contains [code by sebagius7110](https://forums.pocketmine.net/threads/new-api-set-your-own-custom-join-messages.4640/).
 
-This program contains [code by PocketMine and shoghicp](https://github.com/PocketMine/ExamplePlugin)
+This program contains [code by PocketMine and shoghicp](https://github.com/PocketMine/ExamplePlugin).
 
 ## Notes
 
