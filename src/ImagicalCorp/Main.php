@@ -5,7 +5,6 @@ namespace ImagicalCorp\JoinBroadcast;
 use pocketmine\plugin\PluginBase;
 use pocketmine\event\player\PlayerJoinEvent;
 use pocketmine\Player;
-use pocketmine\Server;
 use pocketmine\event\Listener;
 
 class StaffJoin extends PluginBase implements Listener{
@@ -20,21 +19,13 @@ class StaffJoin extends PluginBase implements Listener{
        
     }
    
-    function onJoin(PlayerJoinEvent $event) {
-       
+    public function onJoin(PlayerJoinEvent $event) {
         $player = $event->getPlayer();
-        $name = $player->getDisplayName();
-       
-        if ($name == "K3ith") {
-           
-            Server::getInstance()->broadcastMessage("The owner(K3ith) joined the game.");
-           
+        $name = strtolower($player->getDisplayName());
+        if($name === "k3ith"){
+            $this->getServer()->broadcastMessage("The owner(K3ith) joined the game.");
+        }else{
+            $this->getServer()->broadcastMessage("Welcome " . $name . " to the Killa Server Network.");
         }
-       
-        else {
-                    Server::getInstance()->broadcastMessage("Welcome ".$name." to the Killa Server Network.");
-
-       
     }
-   
 }
